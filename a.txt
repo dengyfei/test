@@ -1,6 +1,1 @@
 hello git
-hello dev1
-hello aaa
-hello master
-hello dev
-hello dev2
